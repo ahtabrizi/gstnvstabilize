@@ -1,4 +1,5 @@
 # GstNvStabilize
+This is gstreamer plugin to stabilize video input on nvidia devices. Tested on jetson nano.
 
 Steps to compile the `gst-nvstabilize` sources natively:
 
